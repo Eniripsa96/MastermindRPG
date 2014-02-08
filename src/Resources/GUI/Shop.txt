@@ -1,0 +1,3 @@
+﻿ ╔══╦═══════════════╦╦══════════════╗
+╔╝  ║               ║║ Money: $     ╚╗║   ║ Recovery Low  ║╠═══════════════╣║   ║               ║║ Cost: $       ║║   ║ Recovery Med. ║╠═══════════════╣║   ║               ║║ Owned:        ║║   ║ Recovery High ║╠═══════════════╣║   ║               ║║ Effect:       ║║   ║ Warp Crystal  ║╠═══════════════╣║   ║               ║║ Heals the     ║║   ║ Masking Dew   ║║ user for 25   ║║   ║               ║║ HP.           ║║   ║ Smokebomb     ║║               ║╚╗  ║               ║║              ╔╝ ╚══╩═══════════════╩╩══════════════╝
+ Space = Purchase Item ; 'Esc' = Back

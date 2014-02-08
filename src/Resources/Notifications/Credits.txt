@@ -1,0 +1,4 @@
+Mastermind RPG
+
+Created by: Steven Sucy
+Inspiration from: Othello

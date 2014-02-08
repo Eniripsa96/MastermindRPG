@@ -1,0 +1,14 @@
+ -= Skills Help Menu =-
+
+What skills do:
+ - Skills have various effects for using in battles
+ - Examples include placing additional tokens, healing you,
+           or stealing normally unobtainable tokens
+ - Use skills carefully as AP is consumed quickly
+
+Getting skills:
+ - In the game menu (the menu that lead you to the manual),
+         there is the skills menu where you can get skills
+ - Skills require skill points to obtain
+
+For details about each skill, see the Battle Help Page 3

@@ -1,0 +1,27 @@
+ -= Battle System Help Menu [Page 2] =-
+
+Battle Rules:
+ - You gain one Action Point per turn
+ - Action points can be used to cast abilities
+ - If you cannot move, the enemy goes again and vice versa
+ - Having no tokens left is an instant loss
+ - If neither player can move, the board gets reset
+ - When the board is reset, so is both combatants' AP
+
+For Placing Tokens:
+ - You may only place a token on a free cell where that captures enemy tokens
+ - Capturing tokens requires you to encase enemy tokens with 2 of your own
+       (existing situations do not capture tokens)
+ - You can capture tokens in multiple directions with one placement
+ - You deal one damage per token captured
+
+For Skills:
+ - Each skill has its own requirements to make a move on top of the AP cost
+     Betray/Negotiate - Must select an enemy token
+     Sacrifice/Heal/Offering - Must select your own token
+     Double Strike - Same rules as placing a token
+     Rewind - Any spot works
+     Void - Must contain at least one enemy or owned token in its 3x3 area
+     Dominate - Must select your own token that is lined up with at least one enemy token.
+
+'Esc' = Return ; 'Left Arrow' = Page 1 ; 'Right Arrow' = Page 3

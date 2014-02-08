@@ -1,0 +1,25 @@
+ -= General Game Help Menu =-
+
+Objective:
+ - Become the master mastermind by defeating all your foes
+ - Final Victory is obtained when you defeat the current master
+ - Losing one battle results in a game over
+ - You must start over if you lose a battle
+
+Controls:
+ - Move Up = Up Arrow                     - Menu = M
+ - Move Down = Down Arrow                 - Help = H
+ - Move Left = Left Arrow                 - Inventory = I
+ - Move Right = Right Arrow
+
+Enemy Encounters
+ - You will be challenged randomly on your journey
+ - Use the underlings as practice to hone your skills
+ - At the end of every area, there is a boss
+ - Defeat all of the bosses and the master will consider your challenge
+
+Stats
+ - Lv [Level] = Your current ranking; higher ranks can lose more tokens
+ - Ex [Experience] = Your progress towards ranking up
+ - HP [Health] = How many tokens you can lose before defeat
+ - AP [Action Points] = How strong of a skill you can use

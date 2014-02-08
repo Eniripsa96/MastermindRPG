@@ -1,0 +1,25 @@
+﻿ -= Quest Help Menu =-
+
+Where to obtain:
+ - Quests are obtained from NPCs in the
+	town
+ - Only one or two NPCs will have
+	quests each time you stop by
+
+How to complete:
+ - To complete the quests, search the
+	area described by your quest in
+	your quest log from the game menu
+	for a 'Q' on the ground. Picking
+	these up tell you what you found
+	and bringing them back to the NPC
+	completes the quest
+
+Rewards:
+ - Quests provide you the only source
+	of money. If you need to buy items,
+	complete some quests
+ - A good way to get money is to use
+	warp crystals when you have two
+	quests available at least 20 areas
+	into the game

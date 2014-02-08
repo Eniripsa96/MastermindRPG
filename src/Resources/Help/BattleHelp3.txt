@@ -1,0 +1,40 @@
+﻿ -= Battle System Help Menu [Page 3] =-
+
+ Action Quick Reference:
+ ╔════════════╦════╦══════════════════════════════╦═════╗
+ ║ Skill Name ║ AP ║ Effect                       ║ Key ║
+ ╠════════════╬════╬══════════════════════════════╬═════╣
+ ║ Place      ║  0 ║ Places a token and captures  ║  1  ║
+ ║ Token      ║    ║ the appropriate enemy tokens ║     ║
+ ╠════════════╬════╬══════════════════════════════╬═════╣
+ ║ Betray     ║  3 ║ Steals the enemy token and   ║  2  ║
+ ║            ║    ║ deals 3 damage               ║     ║
+ ╠════════════╬════╬══════════════════════════════╬═════╣
+ ║ Sacrifice  ║  4 ║ Surrenders your token in     ║  3  ║
+ ║            ║    ║ order to deal 5 damage       ║     ║
+ ╠════════════╬════╬══════════════════════════════╬═════╣
+ ║ Double     ║ 10 ║ Performs the Place Token     ║  4  ║
+ ║ Strike     ║    ║ action twice in one turn     ║     ║
+ ╠════════════╬════╬══════════════════════════════╬═════╣
+ ║ Negotiate  ║  5 ║ Steals three enemy tokens    ║  5  ║
+ ║            ║    ║ but does not deal damage     ║     ║
+ ╠════════════╬════╬══════════════════════════════╬═════╣
+ ║ Heal       ║  5 ║ Surrenders your token in     ║  6  ║
+ ║            ║    ║ order to recover 5 HP        ║     ║
+ ╠════════════╬════╬══════════════════════════════╬═════╣
+ ║ Rewind     ║ 10 ║ Resets the board including   ║  7  ║
+ ║            ║    ║ both combatants' AP          ║     ║
+ ╠════════════╬════╬══════════════════════════════╬═════╣
+ ║ Void       ║ 12 ║ Removes all tokens in a 3x3  ║  8  ║
+ ║            ║    ║ area around the target spot  ║     ║
+ ╠════════════╬════╬══════════════════════════════╬═════╣
+ ║            ║    ║ Surrenders all but one of    ║     ║
+ ║ Offering   ║ 20 ║ your tokens to recover one   ║  9  ║
+ ║            ║    ║ HP per 2 tokens surrendered  ║     ║
+ ╠════════════╬════╬══════════════════════════════╬═════╣
+ ║            ║    ║ Captures all tokens lined up ║     ║
+ ║ Dominate   ║ 15 ║ vertically or horizontally   ║  0  ║
+ ║            ║    ║ with your token, damaging    ║     ║
+ ║            ║    ║ your opponent per token.     ║     ║
+ ╚════════════╩════╩══════════════════════════════╩═════╝
+        'Esc' = Return ; 'Left Arrow' = Page 2

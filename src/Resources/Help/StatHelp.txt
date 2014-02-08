@@ -1,0 +1,25 @@
+ -= Stats Help Menu =-
+
+Level [Lv]
+ - Levels are gained as you gather experience points
+ - Gaining levels gives additional health as well as stat points
+
+Experience [Ex]
+ - Experience is gained at the end of every fight
+ - Amounts gained varies depending on the opponent
+ - A higher amount of experience is needed for higher levels
+
+Health [HP]
+ - Represents the number of tokens you can lose in a battle
+ - Health is restored upon leveling up or casting certain skills
+ - Health is restored before boss battles as well
+ - Health is lost when your tokens are captured in battles
+ - If your health hits 0, you lose the game
+
+Skill Points [SP]
+ - You gain one stat point per level
+ - You can use them to unlock skills
+
+Action Points [AP]
+ - You gain one action point per turn in a battle
+ - Action points are required to use skills

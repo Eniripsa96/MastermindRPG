@@ -1,0 +1,14 @@
+ -= Saving Help Menu =-
+
+How to save:
+ - Saving is done automatically each time you quit the game
+ - This includes using the Escape key and using 'Save & Quit
+            from the game menu
+ - If you lost a battle, you may not load the save file the
+          next time you play.
+
+What saves?
+ - Saving does not keep quests, so do them before you quit
+		  or pick them up again after you start back up
+ - Your absolute position is not saved, so saving towards
+		  the end of an area is not recommended
